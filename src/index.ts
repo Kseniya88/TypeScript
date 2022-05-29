@@ -13,7 +13,7 @@ window.addEventListener('DOMContentLoaded', () => {
       type: 'success',
     },
     {
-      name: 'Понял',
+      name: 'Понял(а)',
       handler: () => {
         console.log('Уведомление закрыто');
       },
